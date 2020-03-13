@@ -65,6 +65,19 @@ input::-moz-focus-inner {
 	padding: 0;
 }
 
+#aboutMe{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 75%;
+}
+
+.knowMore{
+  margin-left: auto;
+  margin-right: auto;
+  max-width:100%;
+  height:auto;
+}
+
 input, select, textarea {
 	-moz-appearance: none;
 	-webkit-appearance: none;
